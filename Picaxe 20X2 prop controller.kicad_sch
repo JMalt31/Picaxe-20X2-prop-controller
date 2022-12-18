@@ -5075,7 +5075,7 @@
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "OSTTC080162" (id 1) (at 38.354 81.6609 90)
-      (effects (font (size 1.27 1.27)) (justify right))
+      (effects (font (size 1.27 1.27)) (justify right) hide)
     )
     (property "Footprint" "digikey-footprints:Term_Block_1x8_P5mm" (id 2) (at 28.448 84.201 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
