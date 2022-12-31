@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.7,
-          "width": 1.7
+          "drill": 1.6,
+          "height": 1.208,
+          "width": 2.416
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -349,7 +349,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "test1.kicad_pro",
+    "filename": "Picaxe 20X2 prop controller.kicad_pro",
     "version": 1
   },
   "net_settings": {

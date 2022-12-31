@@ -1,0 +1,8 @@
+*.xml
+*.dsn
+fp-info-cache
+*Gerber/*
+*backups/*
+*.kicad_prl
+*learn1*
+*test1*
